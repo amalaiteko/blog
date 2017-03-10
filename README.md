@@ -1,12 +1,12 @@
 # Bitleaf blog
 
-This repo contains the content of the [bitleaf blog](https://bitleaf.de/blog). Everyone is welcome to add new or improve existing content. 
+This repo contains the content of the [Bitleaf blog](https://bitleaf.de/blog). Everyone is welcome to add new or improve existing content. 
 
 
 How to use
 -----
 
-  **1.** Login with your Github account (or create an account) 
+  **1.** Login with your Github account (or create an account).
 
   **2.** Above, you see a list of files and folders. Click on the folder **_posts** and select the post you would like to edit.
   
@@ -27,4 +27,4 @@ If I am happy with your edits, I'll merge it and your changes will immediately b
 
 License
 ------
-For this blog, the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) applies. Any contributions are assumed to be licensed under the same license.
+For this work, the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) applies. Any contributions are assumed to be licensed under the same license.
