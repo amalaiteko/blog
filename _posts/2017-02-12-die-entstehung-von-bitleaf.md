@@ -28,6 +28,7 @@ Meine Kunden schätzen an Open Source Software insbesondere:
  	<li><strong>den geringen Anschaffungs- und Wartungsaufwand.</strong></li>
 </ul>
 So durfte ich bereits mehrere IT-Infrastrukturen von Kunden auf Linux bzw. Open Source Umgebungen migrieren.
+
 <h3><strong>Ist Open Source alles?</strong></h3>
 Parallel zu meiner wachsenden Aufmerksamkeit für Open Source Software stieg in mir das Bedürfnis, einen Beitrag gegen unser blindes Rennen in die Ressourcenverknappung zu leisten. IT ist für nahezu jeden von uns allgegenwärtig, doch das Bewusstsein für den Lebenszyklus eines Computers oder dessen Energieverbrauch scheint es nicht zu sein. Nachhaltigkeit scheint zwar bei Bananen und Kakao, aber nicht bei unserem täglichen Handwerkszeug, den Computern, angekommen zu sein.
 
