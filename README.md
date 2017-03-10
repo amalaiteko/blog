@@ -27,7 +27,7 @@ If I am happy with your edits, I'll merge it and your changes will immediately b
 
 License
 ------
-<img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a3/20101104143110%21Cc.logo.circle.svg" width="88" height="31" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a3/20101104143110%21Cc.logo.circle.svg" width="38"  />
 
 For this work, the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) applies. Any contributions are assumed to be licensed under the same license.
 
