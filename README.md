@@ -6,21 +6,23 @@ This repo contains the content of the [bitleaf blog](https://bitleaf.de/blog). E
 How to use
 -----
 
-  **1.** Login with your account to Github
+  **1.** Login with your Github account (or create an account) 
 
-  **2.** In the folder **_posts** select the post you would like to edit.
+  **2.** Above, you see a list of files and folders. Click on the folder **_posts** and select the post you would like to edit.
   
   **3.** Press the **pen symbol** on the top right of the content:
 
   ![](edit-button.png)
 
-  **4.** Do your edits. Use the **preview** tab to see the result.
+  **4.** Do your edits. Use the **preview tab** to see the result.
   
-  **5.** When you are finished, press **propose changes** on the very bottom of the page.
+  **5.** When you are finished, press **propose file change** on the very bottom of the page.
 
   ![](propose-file-change.png)
 
-**That's all!** At that point I have already been notified about your suggestions for review. Check your email settings of your Github account such that you get notified if I accepted your changes or ask you for further improvements on your suggestion.
+**That's all!** At that point I have already been notified about your suggestions for review. Make sure that your email settings of your Github account trigger a notification email to you after my review on your changes.
+
+If I am happy with your edits, I'll merge it and your changes will immediately be public on the blog. If I am not super happy, I might  ask you for further improvements on your suggestion.
 
 
 License
