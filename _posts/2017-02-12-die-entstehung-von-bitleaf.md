@@ -8,8 +8,6 @@ layout: post
 permalink: >
   https://bitleaf.de/2017/02/12/die-entstehung-von-bitleaf/
 published: true
-sharing_disabled:
-  - 'a:1:{i:0;s:1:"1";}'
 ---
 Mein Weg zur nachhaltigen IT begann mit Open Source. <strong>V</strong><strong>or 5 Jahren </strong>beschäftigte ich mich erstmals mit Freier und Open Source Software (FOSS). <!--more-->
 
