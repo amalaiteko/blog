@@ -16,7 +16,7 @@ How to use
 
   **4.** Do your edits. Use the **preview tab** to see the result.
   
-  **5.** When you are finished, press **propose file change** on the very bottom of the page.
+  **5.** When you are finished, scroll down to the very bottom of the page. Just below **commit changes**, provide a short description of your changes. Finally, click on **propose file change**.
 
   ![](propose-file-change.png)
 
