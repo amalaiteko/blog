@@ -40,6 +40,6 @@ Leider lassen sich Computer nicht so ohne Weiteres in eine Kreislaufwirtschaft �
 <h3><strong>Die Geburt von Bitleaf</strong></h3>
 Diese Erkenntnis ist für mich einzigartig. Was gibt es Besseres, als Ressourceneinsatz zu reduzieren und zugleich einen ökologischen Beitrag leisten zu können? Ich beschloss, das Konzept der nachhaltigen IT weiter auszuarbeiten und es für Kunden erfahrbar zu machen. Das Ergebnis ist Bitleaf.
 
-<img class="wp-image-1099  aligncenter" src="https://bitleaf.de/wp-content/uploads/2017/02/bitleaf_logo_final-300dpi-1024x553.png" alt="" width="397" height="214" />
+<img class="wp-image-1099 aligncenter" src="https://bitleaf.de/wp-content/uploads/2017/02/bitleaf_logo_final-300dpi-1024x553.png" alt="" width="397" height="214" />
 
 Ich freue mich nun darauf, allen Interessierten zu helfen, solide IT einzusetzen und gleichzeitig Ressourcen zu reduzieren – ökologische Ressourcen und die des eigenen Budgets.
