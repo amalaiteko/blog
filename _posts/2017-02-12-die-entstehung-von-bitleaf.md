@@ -13,7 +13,7 @@ sharing_disabled:
 ---
 Mein Weg zur nachhaltigen IT begann mit Open Source. <strong>V</strong><strong>or 5 Jahren </strong>beschäftigte ich mich erstmals mit Freier und Open Source Software (FOSS). <!--more-->
 
-Maßgeblich dazu inspiriert dazu hat mich Johannes Herlitzius, seinerzeit ebenfalls Student der Wirtschaftsinformatik. Nachdem mich anfangs die oft fehlende Ästhetik von Open Source Software abgeschreckt hat, habe ich später deren Mehrwert für mich, für die Gesellschaft, und für meine Kunden erkannt.
+Maßgeblich dazu inspiriert hat mich Johannes Herlitzius, seinerzeit ebenfalls Student der Wirtschaftsinformatik. Nachdem mich anfangs die oft fehlende Ästhetik von Open Source Software abgeschreckt hat, habe ich später deren Mehrwert für mich, für die Gesellschaft, und für meine Kunden erkannt.
 
 In den nachfolgenden drei Jahren habe ich Open Source Software sehr zu schätzen gelernt und zunehmend Open Source Produkte anstelle von proprietären Produkten (= Gegenteil von Open Source) eingesetzt.
 
